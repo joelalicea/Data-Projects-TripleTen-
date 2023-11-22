@@ -1,1 +1,28 @@
-placeholder.txt
+# NYC Properties for Investments Projects
+
+## Overview
+* The following analysis is to determine which properties are good investments for the vacation rental market in the Manhattan borough of New York City
+
+### Assumptions About the Data
+
+1. Minimum nights requirements were reduced to less than 7. Beyond 7 nights were not.
+2. Used number of reviews per a 12 month period to estimate how often a listing is rented
+3. Listings with no reviews from the last 12 months are most likely inactive, so they were not considered
+
+### Functionality
+
+* You can view the Listings Processed tab to view filtered and sorted listing data
+* You can view the Calendar Processed tab to view filtered and sorted calendar data
+* Pivot Table 1 shows the number of reviews for the top 10 Manhattan neighborhoods, sorted from high to low
+* Pivot Table 2 shows the number of reviews per bedroom for the top 10 Manhattan neighborhoods
+* Pivot Table 3 shows the average of reviews per listing ID
+
+### Recommendations
+
+The Lower East Side neighborhood is a good neighborhood to invest in as it generates a good return on investment
+
+### Technologies 
+* To filer, format, and analyze data Google Sheets was used
+
+### Full Project Link
+https://docs.google.com/spreadsheets/d/1TZsuLVcJBoMB6nrwtq3r5Ojz6NRJpDs8di8CQmFCrn8/edit?usp=sharing
