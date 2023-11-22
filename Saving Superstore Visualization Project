@@ -1,1 +1,36 @@
-placeholder.txt
+Saving Superstore Visualization 
+
+Overview
+This project analyzes profit growth and loss and suggests products to keep or to delist based on consumer profit and return data.
+
+Assumptions About the Data
+
+1. Sheet 1.2 Products with Profit Loss was filtered at -800, any loss less than -800 was not considered
+2. Sheet 2.1 Vermont, Rhode Island, and Indiana were among the states where the average profit rate were the highest confirmed by the Grand Total Average for year.
+
+
+Functionality
+
+* You can view the worksheets on Tableau by pressing on the tabs that start with 1.1 - 3.3. at the top of the page.
+* You can view the dashboards on Tableau by pressing on the Superstore Profit and Growth and the Returned Items tab.
+* Superstore Profit and Growth Dashboard summarized profit/loss of each item by region and sub-categories.
+* Returned Items Dashboard summarized return products by highest return rate, customers with the highest return rate, and average return rate vs. profit by category 
+
+
+Return On Ad Spending (ROAS) in order for profitability:
+
+Vermont Maximum Spend for Ad Revenue for November: $119.20
+Rhode Island Maximum Spend for Ad Revenue for December: $50
+Indiana Maximum Spend for Ad Revenue for October: $128.62
+
+
+Recommendations
+
+The Technology category is the most profitable category between Office Supplies and Furniture
+
+
+Technologies 
+Tableau
+
+Full Project Link
+https://public.tableau.com/views/Sprint4SavingSuperstoreProject/ReturnedItems?:language=en-US&:display_count=n&:origin=viz_share_link
