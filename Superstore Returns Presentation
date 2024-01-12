@@ -2,7 +2,7 @@ Superstore Returns Presentation
 
 Overview
 This project analyzes the high number of users returns, identifies possible root causes of returns, and offers suggestions/recommendations for sales growth.
-
+                
 Assumptions About the Data
 Customers with less than 1 order or less were rejected for this study
 
