@@ -23,3 +23,12 @@ The main objective of this project is to deliver data-driven insights and recomm
 https://docs.google.com/spreadsheets/d/1TZsuLVcJBoMB6nrwtq3r5Ojz6NRJpDs8di8CQmFCrn8/edit?usp=sharing 
 
 ### Workbook Preview:
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Executive%20Summary.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Change%20Log%3AAssumptions.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Top%2010%20Most%20Popular%20Neighborhoods.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Specific%20Property%20Sizes%20for%20Top%2010%20N.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Average%20Occupancy%20Rate.png)
