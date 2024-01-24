@@ -32,3 +32,5 @@ https://docs.google.com/spreadsheets/d/1TZsuLVcJBoMB6nrwtq3r5Ojz6NRJpDs8di8CQmFC
 ![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Specific%20Property%20Sizes%20for%20Top%2010%20N.png)
 
 ![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1af71b38940ef6bfa4ca4ec26c91af0be62b6cad/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Average%20Occupancy%20Rate.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/ed6cb90fd89a9e50c43a08e7edfb1671eff761fa/Google%20Sheets%20-%20NYC%20Properties%20for%20Investments/Pictures/Recommendations.png)
