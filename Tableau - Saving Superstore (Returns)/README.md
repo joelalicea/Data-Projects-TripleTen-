@@ -26,7 +26,12 @@ This project examines the significant volume of user returns, identifies potenti
 https://public.tableau.com/views/SuperstoreReturnsPresentation/SuperstoreReturnsPresentation?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 ## Workbook Preview:
-![Sample Image]
-![Sample Image]
-![Sample Image]
-![Sample Image]
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/699abedc0b4de69f47a262a11a17c58a460ea3c9/Tableau%20-%20Saving%20Superstore%20(Returns)/Pictures/Paper%20%26%20Binders%20are%20overstocked.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/699abedc0b4de69f47a262a11a17c58a460ea3c9/Tableau%20-%20Saving%20Superstore%20(Returns)/Pictures/Return%20Rates%20have%20Doubled.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/699abedc0b4de69f47a262a11a17c58a460ea3c9/Tableau%20-%20Saving%20Superstore%20(Returns)/Pictures/Western%20States%20AVG%20Highest%20Return%20Rate.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/699abedc0b4de69f47a262a11a17c58a460ea3c9/Tableau%20-%20Saving%20Superstore%20(Returns)/Pictures/Average%20Returns%20Dashboard.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/699abedc0b4de69f47a262a11a17c58a460ea3c9/Tableau%20-%20Saving%20Superstore%20(Returns)/Pictures/Recommendations.png)
