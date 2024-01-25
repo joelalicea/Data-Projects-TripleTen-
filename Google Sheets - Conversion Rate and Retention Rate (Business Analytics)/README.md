@@ -15,7 +15,7 @@ The company seeks help in prioritizing their research by answering the following
 
 
 ### Project Goal:
-The project objective was to create a conversion funnel to understand how well the website is converting product page views into purchases, build acquisition cohorts based on the month of a user’s first purchase to track cohort metrics month by month and aggregate the purchase data into cohorts to calculate retention rates for each cohort month by month. 
+The project objective was to create a conversion funnel to understand how well the website is converting product page views into purchases, build acquisition cohorts based on the month of a user’s first purchase to track cohort metrics month by month, and aggregate the purchase data into cohorts to calculate retention rates for each cohort month by month. 
 
 ### Tools and Libraries:
 -	Google Spreadsheets
@@ -24,11 +24,10 @@ The project objective was to create a conversion funnel to understand how well t
 [https://docs.google.com/spreadsheets/d/1TZsuLVcJBoMB6nrwtq3r5Ojz6NRJpDs8di8CQmFCrn8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PwxmOxcq_cpIBtIQDfRqrU-iXFfQhZGZyBGs4QFCS7M/edit?usp=sharing) 
 
 ### Workbook Preview:
-![Sample Image]
-![Sample Image]
-![Sample Image]
-![Sample Image]
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Executive%20Summary.png)
 
-![Sample Image]
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Table%20of%20Contents.png)
 
-![Sample Image]
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Conversion%20Funnel.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Retention%20Rates.png)
