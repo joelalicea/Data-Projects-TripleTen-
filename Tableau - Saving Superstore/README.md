@@ -33,3 +33,33 @@ The main objective of this project is to utilize Tableau's data visualization ca
 https://public.tableau.com/views/saving_super_store_1_16961033050350/Part1_Question1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Workbook Preview:
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/e88fa37a88e6f439d6af0751d104100374a8c5e9/Tableau%20-%20Saving%20Superstore/Pictures/Two%20Biggest%20Profit%20Centers%20and%20Two%20Biggest%20Profit%20Losers.png)
+
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/e88fa37a88e6f439d6af0751d104100374a8c5e9/Tableau%20-%20Saving%20Superstore/Pictures/Biggest%20Profit%20Loss%20Items.png)
+## Products with Profit Loss was filtered at -800, any loss less than -800 was not considered 
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/e88fa37a88e6f439d6af0751d104100374a8c5e9/Tableau%20-%20Saving%20Superstore/Pictures/Recommeded%20Sub-Categories%20for%20Profit%20vs%20Loss.png)
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/e88fa37a88e6f439d6af0751d104100374a8c5e9/Tableau%20-%20Saving%20Superstore/Pictures/Highest%20ROAS%20for%20Best%203%20States%20According%20to%20Month.png)
+## Vermont, Rhode Island, and Indiana were among the states where the average profit rate were the highest confirmed by the Grand Total Average for year. 
+
+ 
+
+## Return On Ad Spending (ROAS) for profitability: 
+
+ 
+
+## 1. Vermont Maximum Spend for Ad Revenue for November: $119.20 
+
+ 
+
+## 2. Rhode Island Maximum Spend for Ad Revenue for December: $50 
+
+ 
+
+## 3. Indiana Maximum Spend for Ad Revenue for October: $128.62 
+
+![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/e88fa37a88e6f439d6af0751d104100374a8c5e9/Tableau%20-%20Saving%20Superstore/Pictures/Returned%20Items%20Dashboard.png)
+ 
