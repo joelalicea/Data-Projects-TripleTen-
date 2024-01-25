@@ -31,3 +31,8 @@ The project objective was to create a conversion funnel to understand how well t
 ![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Conversion%20Funnel.png)
 
 ![Sample Image](https://github.com/joelalicea/Data-Projects-TripleTen-/blob/1dc419a9bf9fdc9d2f55c5f22c60447f84ed8409/Google%20Sheets%20-%20Conversion%20Rate%20and%20Retention%20Rate%20(Business%20Analytics)/Pictures/Retention%20Rates.png)
+
+# Results:
+
+### 1. The Total Conversion Rate (TCR) for purchases made is 36%, the TCR for users to shopping page stage is 29%, and the TCR for shopping page to purchase stage is 10%
+### 2. The retention rate is higher for the first week of each month reflected by the cohort age column
