@@ -30,7 +30,7 @@ The main objective of this project is to utilize Tableau's data visualization ca
 - Tableau: Utilize Tableau for data visualization and analysis.
 
 ## Link to the project:
-https://public.tableau.com/views/saving_super_store_1_16961033050350/Part1_Question1?:language=en-US&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com/views/Sprint4SavingSuperstoreProject/SuperstoreProftitandGrowth?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Workbook Preview:
 
